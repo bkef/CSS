@@ -1,0 +1,49 @@
+body {
+	font-weight: bold;
+}
+div .content{
+	color: blue;
+}
+
+div.content {
+		color: red;
+}
+
+p#content {
+	font-weight: bold;
+	color: purple;
+}
+* {
+font-weight: bold;
+}
+
+/*multiple selection*/
+/*div,p{
+	font-weight: bold;
+}*/
+
+/*child*/
+article > p{
+	color:yellow;
+}
+
+/*descendant*/
+article p{
+	color:tomato;
+}
+aside + p{
+	background-color: lightgreen;
+}
+
+header ~ p{
+	background-color: lightblue;
+}
+a{
+	background-color: green;
+	text-decoration: none;	
+	
+}
+p#custom:hover{
+	cursor: pointer;
+}
+
