@@ -1,0 +1,139 @@
+  body {
+            margin: 0px;
+            background-color:#8B0000;
+            color: white
+        }
+
+
+#container {
+            width: 100%;
+            height: 100px;
+            background-color: black;
+            color: white;
+
+        }
+
+.log{
+	width: 60px;
+	height: 60px;
+}
+
+#logo_title {
+            height: 60px;
+            width: 250px;
+            display: flex;
+            margin: 0 auto;
+            text-align: left;
+            padding-top: 20px;
+            position: relative;
+             left: -1000px;
+           
+        }
+.title {
+            line-height: 60px;
+            height: 60px;
+            margin-top: 0px;
+        }
+
+ #main_bottom {
+            width: 100%;
+            height: 600px;
+            margin: 0 auto;
+            position: relative;
+            left: 300px;
+            padding: 10px 30px 10px 30px;
+                   }
+
+ .article {
+            display: inline-block;
+            margin: 20px 20px;
+            color: white;
+            line-height: 1.2em;
+            border-right: 1px solid white;
+            padding: 0px 0px 0px 0px;
+        }
+ .article:after {
+            border-right: 1px solid white;
+            height: 200px;
+        }
+       
+ .section {
+           width: 200px;
+            height: 180px;
+            overflow: hidden;
+            padding: 0px 0px 0px 0px;
+        }
+        
+ hr {
+            width: 600px;
+            margin: 30px auto 50px auto;
+        }
+h1 {
+            text-align: center;
+
+        }
+.pic1 {
+            margin: 0 auto;
+            width: 200px;
+            height: 200px;
+        }
+        
+.pic2 {
+            margin: 0 auto;
+            width: 200px;
+            height: 200px
+        }
+        
+.pic3 {
+            margin: 0 auto;
+            width: 200px;
+            height: 200px
+        }
+.pic4 {
+            margin: 0 auto;
+            width: 200px;
+            height: 200px
+        }
+       
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+#bottom {
+            width: 100%;
+            height: 40px;
+            background-color: black;
+            color: white;
+            text-align: center;
+        }
+        
+small {
+            line-height: 40px;
+            height: 40px;
+        }
+.website {
+            display: inline-block;
+            margin: 0px 0px;
+            color: black;
+            line-height: 1.2em;
+            background-color: lightgray;
+            padding: 10px 10px 10px 10px;
+            
+                         }
+        }
+        
+.ptag{
+			 width: 100%;
+            overflow: hidden;
+            padding: 10px 40px 10px 40px;
+            left: -700px;
+        }
+#image{
+        	width: 500px;
+        	height: 300px;
+        }
